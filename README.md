@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan Pablo Del Rosso</h1>
 <h3 align="center">A passionate Full Stack Developer with Frontend focus from Junin, Buenos Aires, Argentina.</h3>
 
-- I'm worked in a academic projects, this projects stay in this repository [Full Stack Henry Bootcamp Projects](https://github.com/JuanPaBL2/Full-Stack-Henry-Bootcamp-Projects)
+- I am a Full Stack Developer with a focus on Front-end development, supplemented by training in Data Science and Machine Learning. This training has equipped me with advanced analytical abilities, research skills, and a deep understanding of artificial intelligence. I am highly observant and analytical in UX/UI trends, enabling me to design intuitive and user-centered interfaces. I have over a year of work experience in administration, where I developed teamwork, adaptability, and problem-solving skills. My full stack web development approach primarily revolves around Next.js and the MERN and PERN stacks, using CSS frameworks like TailwindCSS and styled-components, and libraries for asynchronous functions like Axios and jQuery. I also have experience in using HTML, CSS, and Vanilla JavaScript for DOM manipulation.
 
 - 📫 How to reach me [Juanpablo_delrosso@outlook.com.ar](Juanpablo_delrosso@outlook.com.ar)
 
